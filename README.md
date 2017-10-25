@@ -1,2 +1,2 @@
-# DataStructures-CSharp
-DataStructures in C#
+# Data-Structures-CSharp
+Data Structures in C#
